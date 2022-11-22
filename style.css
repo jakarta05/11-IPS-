@@ -113,7 +113,7 @@ Html {
 
 .home {
 	Display:  flex;
-	Background: url(“Banner.jpg”) no-repeat center;
+	Background: url(“banner.jpg”) no-repeat center;
 	Height: 100vh;
 	Color: #fff;
 	Min-height: 500px;
